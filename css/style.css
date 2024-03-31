@@ -11,10 +11,10 @@ h1{
     background-color: blue;
 }
 h1{
-    font-family: 'Times New Roman', serif;
+   font-family: 'Times New Roman', Times, serif;
 }
 h2{
-    font-family: 'Times New Roman', serif;
+   font-family: 'Times New Roman', Times, serif;
 }
 nav{
     font-weight: bold;
